@@ -1,5 +1,4 @@
 # macro-tracker.github.io
-cat > /mnt/user-data/outputs/macro_tracker.html << 'HTMLEOF'
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -573,5 +572,3 @@ render();
 </script>
 </body>
 </html>
-HTMLEOF
-echo "Done"
